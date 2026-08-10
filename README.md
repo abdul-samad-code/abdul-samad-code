@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React.js, Data Structures, and Backend Development (Node.js)**
 
-- 👯 I’m looking to collaborate on **Beginner-friendly Web Development Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 🤝 I’m looking for help with **Improving problem solving and backend development skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdul-samad-code](https://github.com/abdul-samad-code)
 
-- 💬 Ask me about **HTML, CSS, JavaScript Basics, C Programming, and C# basics**
+- 💬 Ask me about **HTML, CSS, JavaScript, python, linux**
 
 - 📫 How to reach me **sheikh.samad.dev@gmail.com**
 
