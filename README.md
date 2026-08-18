@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **Improving problem solving and backend development skills**
+- 🤝 I’m looking for help with **Improving problem problem and backend development skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdul-samad-code](https://github.com/abdul-samad-code)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, python, linux**
+- 💬 Ask me about **HTML, CSS, JavaScript, python, git, github, linux**
 
 - 📫 How to reach me **sheikh.samad.dev@gmail.com**
 
